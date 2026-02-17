@@ -36,7 +36,7 @@
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.program.centaurwizard" name="CentaurWizard" version="1.1.0" provider-name="Slam, BYB, Sarge, Diggz">
+<addon id="plugin.program.centaurwizard" name="CentaurWizard" version="1.1.1" provider-name="Slam, BYB, Sarge, Diggz">
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.accountmgr" version="1.0"/>
@@ -48,9 +48,9 @@
 	</extension>
 	<!--<extension point="xbmc.service" library="service.py" />-->
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Simple Nexus Wizard is a lightweight template for installing builds on Kodi 20 Nexus. Has some code from Aftermath Wizard by Surfacingx. Skin Switch by OpenELEQ. Base code by BYB. Credits to them and all others who contributed. Please report any bugs to @slamious on Telegram/Twitter.</summary>
-		<description lang="en_GB">Kodi Nexus 20 Wizard</description>
-		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
+		<summary lang="en_GB">CentaurWizard</summary>
+		<description lang="en_GB">CentaurWizard</description>
+		<disclaimer lang="en_GB">CentaurWizard</disclaimer>
 		<language>en</language>
 		<platform>all</platform>
 		<license>GPL-2.0-or-later</license>
